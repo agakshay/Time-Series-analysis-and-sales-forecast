@@ -1,5 +1,5 @@
 # Time-Series-analysis-and-sales-forecast
-##Time series analysis on automotive dataset and forecasting the sales using SARIMA
+## Time series analysis on automotive dataset and forecasting the sales using SARIMA
 
 1. The data has been read using pandas.
 2. The data was cleansed and only important data has been kept.
@@ -19,4 +19,4 @@
 >>>> matplotlib
 >>>>> statsmodels
 >>>>> 
-##Dataset: https://open.canada.ca/data/en/dataset/0decc62b-3047-417c-81e7-d8f96fac09a9
+## Dataset: https://open.canada.ca/data/en/dataset/0decc62b-3047-417c-81e7-d8f96fac09a9
